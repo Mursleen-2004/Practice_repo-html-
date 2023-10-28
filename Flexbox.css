@@ -1,0 +1,50 @@
+#one {
+
+    background-color: royalblue;
+    display: flex;
+    justify-content: center;
+    height: 1000px;
+    width: 1000px;
+    margin: auto;
+    column-gap: 20%;
+  overflow-x: hidden;
+    align-items: center;
+}
+
+.one {
+
+    background-color: chartreuse;
+    border: red 1px;
+    height: 50px;
+    width:50px;
+    align-items: center;
+
+
+}
+
+.two {
+    background-color: brown;
+
+
+
+}
+.three
+{
+
+background-color: crimson;
+
+}
+.four
+{
+   background-color:darkgoldenrod;
+
+
+
+}
+.five
+{ 
+      background-color: darkgreen;
+
+
+
+}

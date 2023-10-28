@@ -1,0 +1,41 @@
+.one{
+	 background-color:yellow;
+	 color:green;
+	 font-style:bold;
+	 text-align:center;
+	 border:5px solid black;
+	 
+}
+.two{
+	background-color:grey;
+	 color:pink;
+	 font-style:italic;
+	 border:5px solid orange;
+
+	 	
+}
+#one { color:red;
+      background-color:pink;
+    }
+.one p{
+	  color:red;
+	  text-decoration:underline;
+	 
+}
+.third{
+	
+	  font-style:bold;
+	  text-align:center;
+	 
+}
+.one h2{
+	   color:pink;
+	   text-decoration:upperline;
+	 
+	
+}
+.forth {
+	
+	  color:black;
+	  background-color:grey;
+}

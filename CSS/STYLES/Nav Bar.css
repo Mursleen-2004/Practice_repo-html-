@@ -1,0 +1,39 @@
+div{
+	background-color:black;
+	color:white;
+	margin:0;
+	padding:0;
+	
+	
+}
+.nav{
+	margin:0;
+	padding:0;
+	height:px;
+	
+	
+}
+.nav ul{
+	text-decoration:none;
+	
+}
+div ul li{
+	text-decoration:none;
+	display:inline-block;
+	margin:15px;
+	padding:15px;
+	color:white;
+}
+div ul li a{
+	color:white;
+	text-decoration:none;
+	float:left;
+	padding:20px 40px;
+}
+div ul li a:hover{
+	
+	background-color:white;
+	color:black;
+	padding:20px 40px;
+	
+}
